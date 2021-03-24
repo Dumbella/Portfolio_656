@@ -1,0 +1,39 @@
+body{
+    background-color: #8a7e96;
+}
+
+
+hr{
+    background-color: #e2ab7f;
+    border: #e2ab7f solid 2px;
+
+}
+#topic1{
+    font-size: 18px;
+
+}
+h3{
+   color: #f1ece1;
+}
+textarea{
+    border: 3px solid #f1ece1;
+    border-radius: 10px;
+    background-color: #878fa7;
+    margin-left: 600px;
+    margin-top: 50px;
+    width: 250px;
+    height: 150px;
+    font-size: 20px;
+}
+.post{
+    margin-left: 680px;
+   
+    
+    
+    
+}
+.clear{
+    margin-left: 745px;
+    margin-top: -21px;
+}
+
